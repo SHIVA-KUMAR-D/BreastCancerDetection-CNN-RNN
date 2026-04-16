@@ -83,8 +83,8 @@ mini project/
 
 ### Step 1: Clone & Navigate
 ```bash
-git clone <repo-url>
-cd "mini project/BreastCancer-CNN-RNN"
+git clone https://github.com/SHIVA-KUMAR-D/BreastCancerDetection-CNN-RNN.git
+cd "BreastCancer-CNN-RNN"
 ```
 
 ### Step 2: Install Dependencies
